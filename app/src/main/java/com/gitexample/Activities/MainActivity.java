@@ -17,5 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d("test","Hello message");
 
+        Toast.makeText(this, "Login ", Toast.LENGTH_SHORT).show(); //login branch
+
     }
 }
