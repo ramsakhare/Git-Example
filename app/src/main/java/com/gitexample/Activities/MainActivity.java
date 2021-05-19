@@ -16,8 +16,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.d("test","Hello message");
-
-        
         Toast.makeText(this, "Ram sakhare", Toast.LENGTH_SHORT).show(); //development branch
 
     }
