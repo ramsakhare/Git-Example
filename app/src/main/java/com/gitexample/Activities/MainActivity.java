@@ -1,9 +1,11 @@
-package com.gitexample;
+package com.gitexample.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.Toast;
+
+import com.gitexample.R;
 
 public class MainActivity extends AppCompatActivity {
 
